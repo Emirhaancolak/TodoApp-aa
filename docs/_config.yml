@@ -1,6 +1,6 @@
 title: Emirhan Blog
 description: Burası githubumdan bloglar içeriyor
-baseurl: ""   
+baseurl: "TodoApp-aa"   
 url: "https://emirhaancolak.github.io/TodoApp-aa/"
 
 theme: minima
